@@ -1,0 +1,5 @@
+api_url: "http://news.like.naver.com"
+path: "/v1/search/contents?"
+front_param: "suppress_response_codes=true&callback=jQuery112407620232249431651_1579779150521"
+value_param: "&q={}"
+rear_param: "&isDuplication=false&_=1579779150522"
